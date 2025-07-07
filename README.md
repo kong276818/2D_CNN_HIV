@@ -61,7 +61,7 @@ bash
 python HSI_RGB_BI_cLIP.py
 3. 학습 완료 후 모델 저장
 model_hsi_rgb.pth가 저장됩니다.
-
+---
 💬 문의
 문의사항이나 제안사항은 Issues 또는 Pull Request로 자유롭게 남겨주세요.
 
