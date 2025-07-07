@@ -64,5 +64,6 @@ model_hsi_rgb.pth가 저장됩니다.
 
 💬 문의
 문의사항이나 제안사항은 Issues 또는 Pull Request로 자유롭게 남겨주세요.
-![image](https://github.com/user-attachments/assets/c96da679-e2a0-423f-be43-109b03aae210)
+
+![aaaaa](https://github.com/user-attachments/assets/938ff3a1-3f78-46e1-abcc-203927494ea8)
 
