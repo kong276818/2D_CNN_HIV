@@ -29,6 +29,7 @@ MWIR 대역의 초분광 데이터를 기반으로 하며, 실시간 적용을 �
 - 평가 방식: train-validation split & accuracy
 
 ---
+![aaaaa](https://github.com/user-attachments/assets/75c495c2-564b-415e-9561-0013f6813fdb)
 
 ## 🧠 모델 구조 요약
 
@@ -64,7 +65,5 @@ model_hsi_rgb.pth가 저장됩니다.
 
 💬 문의
 문의사항이나 제안사항은 Issues 또는 Pull Request로 자유롭게 남겨주세요.
----
 
-![aaaaa](https://github.com/user-attachments/assets/938ff3a1-3f78-46e1-abcc-203927494ea8)
 
